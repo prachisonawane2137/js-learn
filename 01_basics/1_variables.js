@@ -1,10 +1,9 @@
-const userId = 103
-let userName="vijay"
-var userEmail="prachi@gmail.com"
-  let city="nashik"
-  
-  
-  console.log(userName)
+const userId=104
+let userName="prachis"
+var city
+userEmail="prachi@gmail.com"
+
+console.table([userId, userName,city,userEmail])
 
 
 /* prefer not to use  var

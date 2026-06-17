@@ -13,6 +13,10 @@ console.log( valueInNumber)
 //null -0
 //undefined - NaN
 
+
+ //isLoggedIn strore boolean value true or flase 
+
+
 let isLoggedIn= ""
 let booleanIsLoggedIn= Boolean(isLoggedIn)
 console.log(booleanIsLoggedIn)
@@ -23,9 +27,12 @@ console.log(booleanIsLoggedIn)
 //""- false
 
 
-//stringNumber
+//stringNumber   convert string number into number
 
-let someNumber=33
+let someNumber="33"
 let stringNumber=String(someNumber)
 console.log(stringNumber)//33
 console.log(typeof stringNumber)//string
+
+
+

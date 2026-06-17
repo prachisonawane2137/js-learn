@@ -22,3 +22,4 @@ console.log (typeof( name)) // using method
 
 //Type of null is object
 // type of undefined is undefined
+
