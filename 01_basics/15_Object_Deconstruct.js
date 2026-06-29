@@ -1,15 +1,27 @@
+// const course={
+
+//     coursename:"Js Learn",
+//     price:999,
+//     courceInstructor:"prachi"
+
+// }
+
+// const {courceInstructor: Instructor}=course
+
+
+// console.log(Instructor)
+
+
+
+
 const course={
 
-    coursename:"Js Learn",
-    price:999,
-    courceInstructor:"prachi"
+    courseName:"Js Hindi",
+    cost:999,
+    courseInstructor:"prachi"
 
 }
 
-const {courceInstructor: Instructor}=course
-
+const{courseInstructor:Instructor}=course
 
 console.log(Instructor)
-
-
-
